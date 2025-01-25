@@ -130,5 +130,6 @@ Here are some screenshots of the **Complete Food Delivery App** in action:
 ## 🎥 **App Demo Video**
 
 For a complete demo of the app in action, watch the screen recording below:  
-[Click here to watch the demo video](https://youtube.com/demo-video)
+[Click here to watch the demo video](https://www.youtube.com/channel/UCkDHDcH4MEe1boyD9xqIkPw)
 
+https://github.com/user-attachments/assets/1e368c82-301f-43fe-b0b4-9a4960eac205
