@@ -134,18 +134,6 @@ Here are some screenshots of the **Complete Food Delivery App** in action:
   </tr>
 </table>
 
-
-
-| **Login Screen** | **Home Screen** | **Menu Filter Screen** | **Order History** |  
-|------------------|-----------------|------------------------|-------------------|  
-| ![Login](https://via.placeholder.com/300x600?text=Login+Screen) | ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Menu Filter](https://via.placeholder.com/300x600?text=Menu+Filter) | ![Order History](https://via.placeholder.com/300x600?text=Order+History) |  
-
-| **Order Tracking** | **Admin Dashboard** | **Rider Notification** | **Order OTP Screen** |  
-|-------------------|---------------------|------------------------|----------------------|  
-| ![Order Tracking](https://via.placeholder.com/300x600?text=Order+Tracking) | ![Admin Dashboard](https://via.placeholder.com/300x600?text=Admin+Dashboard) | ![Rider Notification](https://via.placeholder.com/300x600?text=Rider+Notification) | ![Order OTP](https://via.placeholder.com/300x600?text=Order+OTP) |  
-
----
-
 ## 🎥 **App Demo Video**
 
 For a complete demo of the app in action, watch the screen recording below:  
